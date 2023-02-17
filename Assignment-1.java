@@ -1,3 +1,4 @@
+//Printing My Name 
 public class Launch1{
 
 	public static void main(String[] args) {
@@ -101,7 +102,7 @@ public class Launch1{
 
 
 
-
+//Question 1:-
 public class launch2 {
 	public static void main(String [] args) {
 	int n= 7;
@@ -208,15 +209,15 @@ public class launch2 {
 		System.out.println();
 	}
 	
+        }
 }
-}
 
 
 
 
 
 
-
+//Question 2:-
 public class Launch3 {
 
 	public static void main(String [] args)
@@ -236,7 +237,7 @@ public class Launch3 {
 
 
 
-
+//Question 3:-
 public class Launch4 {
 
 	public static void main(String[] args) {
@@ -270,7 +271,7 @@ public class Launch4 {
 
 
 
-
+//Question 4:-
 public class Launch5 {
 		
 	public static void main(String[] args) {
@@ -299,7 +300,7 @@ public class Launch5 {
 
 
 
-
+//Question 5:-
 public class Launch6 {
 
 	public static void main(String[] args) {
