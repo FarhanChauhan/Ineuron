@@ -35,13 +35,13 @@ class Player{
 	
 	int guessNum;
 	StringBuffer name=new StringBuffer();
-	
+	static int count;
 	int guessNum()
 	{
 		Scanner sc =new Scanner(System.in);
-		System.out.print("Player plese enter your name :  ");
+		System.out.print("Player " + ++count +" plese enter your name :  ");
 		name.append(sc.nextLine());
-		System.out.print("Player kindly guess the number : ");
+		System.out.print("Player "+ count +" kindly guess the number : ");
 		guessNum=sc.nextInt();
 		if(guessNum<1 || guessNum>10) 
 		{
@@ -201,7 +201,7 @@ class Umpire{
 	
 	void compare3() 
 	{
-
+		Player.count=0;
 		Guesser g = new Guesser();
 		numFromGuesser = g.guessNum();
 		Player p1 = new Player();
@@ -266,7 +266,7 @@ class Umpire{
 	
 	void compare2() 
 	{
-
+		Player.count=0;
 		Guesser g = new Guesser();
 		numFromGuesser = g.guessNum();
 		Player p1 = new Player();
