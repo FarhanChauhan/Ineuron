@@ -45,7 +45,7 @@ Assignment-6
 
 
 Assignment-Probability
-
+https://github.com/FarhanChauhan/Ineuron/blob/main/Probability
 
 Assignment-Permutation & Combination
 https://github.com/FarhanChauhan/Ineuron/blob/main/Permutation%20&%20Combination
