@@ -51,7 +51,7 @@ Assignment-Permutation & Combination
 
 
 Assignment-Problems on Trains
-
+https://github.com/FarhanChauhan/Ineuron/blob/main/Problems%20on%20Train
 
 Assignment-Boats & Streams
 https://github.com/FarhanChauhan/Ineuron/blob/a041e0059b4b308cc349859923df1c2655343e61/Assignment%20Problems%20on%20Train.jpg
