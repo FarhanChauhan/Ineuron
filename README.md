@@ -48,7 +48,7 @@ Assignment-Probability
 
 
 Assignment-Permutation & Combination
-
+https://github.com/FarhanChauhan/Ineuron/blob/main/Permutation%20&%20Combination
 
 Assignment-Problems on Trains
 https://github.com/FarhanChauhan/Ineuron/blob/main/Problems%20on%20Train
