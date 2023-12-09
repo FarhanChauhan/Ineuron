@@ -25,3 +25,36 @@ Assignment 4 :
 Programs o strings
 
 https://github.com/FarhanChauhan/Ineuron/tree/main/Assignment4/src
+
+
+Aptitude Assignment 
+
+Assignment-1
+
+
+Assignment-2
+
+
+Assignment-3
+
+
+Assignment-4
+
+
+Assignment-6
+
+
+Assignment-Probability
+
+
+Assignment-Permutation & Combination
+
+
+Assignment-Problems on Trains
+
+
+Assignment-Boats & Streams
+
+
+Assignment-SETS Theory
+
