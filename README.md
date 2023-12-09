@@ -1,29 +1,20 @@
 # Ineuron
-Assignment 1 :
-
-Pattern programming
+Assignment 1 : Pattern programming
 
 https://github.com/FarhanChauhan/Ineuron/blob/main/Assignment-1.java
 
 
-Assignment 2 : 
-
-Problems on Arrays
+Assignment 2 : Problems on Arrays
 
 https://github.com/FarhanChauhan/Ineuron/tree/master/Assignment2/src/in/ineuron/main
 
 
-Assignment 3 :
-
-Guesser Game Modified version
+Assignment 3 : Guesser Game Modified version
 
 https://github.com/FarhanChauhan/Ineuron/blob/master/Assignment3/src/in/ineuron/main/GuesserGame.java
 
 
-Assignment 4 :
-
-Programs o strings
-
+Assignment 4 : Programs on strings
 https://github.com/FarhanChauhan/Ineuron/tree/main/Assignment4/src
 
 
@@ -45,6 +36,7 @@ Assignment-6
 
 
 Assignment-Probability
+
 https://github.com/FarhanChauhan/Ineuron/blob/main/Probability
 
 Assignment-Permutation & Combination
@@ -57,4 +49,5 @@ Assignment-Boats & Streams
 https://github.com/FarhanChauhan/Ineuron/blob/main/Boats%20and%20Streams
 
 Assignment-SETS Theory
+
 https://github.com/FarhanChauhan/Ineuron/blob/main/SETS%20Theory
